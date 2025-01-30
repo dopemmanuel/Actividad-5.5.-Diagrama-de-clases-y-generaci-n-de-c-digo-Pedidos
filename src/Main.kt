@@ -66,4 +66,5 @@ fun main(){
     producto1.actualizarStock(2)
     producto2.actualizarStock(1)
     println("Stock actualizado: Camiseta - ${producto1.stock}, Pantalón - ${producto2.stock}")
+
 }
