@@ -25,7 +25,7 @@ Un `Pedido` contiene varios `Producto`s, lo que indica una relación de **agrega
 
 A continuación, se muestra un ejemplo del diagrama UML que ilustra las relaciones entre las clases en el sistema.
 
-![Diagrama UML](ruta-a-tu-diagrama)
+![Diagrama UML](Actividad-5.5.-Diagrama-de-clases-y-generaci-n-de-c-digo-Pedidos\images\Dgrama.png)
 
 ## Herramienta Utilizada para Crear el Diagrama UML
 
